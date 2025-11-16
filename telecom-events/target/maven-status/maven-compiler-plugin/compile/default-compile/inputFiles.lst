@@ -1,0 +1,13 @@
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\api\dto\EventRequest.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\api\EventController.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\api\StatsController.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\config\KafkaConfig.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\config\KafkaListenerConfig.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\domain\EventEntity.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\domain\EventRepository.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\service\EventConsumer.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\service\EventProducer.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\service\StatsService.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\TelecomEventsApplication.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\web\dto\MinuteStat.java
+C:\Users\Yunus\Desktop\argela-telecom-events\telecom-events\src\main\java\com\argela\telecom_events\web\dto\StatsResponse.java
