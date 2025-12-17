@@ -1,4 +1,4 @@
-# 📡 Argela Telecom Events Platform
+# 📡Telecom Events Platform
 
 Bu proje, bir telekomünikasyon sağlayıcısı için **gerçek zamanlı event işleme** sistemidir.
 Spring Boot, Kafka, Redis ve MySQL kullanılarak geliştirilmiştir.
@@ -783,3 +783,4 @@ Redis template ayarları
 3. **Debugging:** AI ile oluşturulan kodların debug edilmesi zaman alabilir
 
 **Proje Geliştirici:** Yunus Can Dumlupınar
+
